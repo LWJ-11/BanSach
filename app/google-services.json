@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "783863635741",
+    "project_id": "appbansach-9ac7f",
+    "storage_bucket": "appbansach-9ac7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783863635741:android:15ea0436eaa21b2ac5cbf4",
+        "android_client_info": {
+          "package_name": "huflit.edu.vn.appbansach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783863635741-m9dkr955d71fva2ujsobuaraus7hod55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuEI6s2y5yyMpezrGJpHalmdV9Cyfi8H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783863635741-m9dkr955d71fva2ujsobuaraus7hod55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
